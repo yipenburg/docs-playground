@@ -2,4 +2,4 @@
 
 I am having a great time with this!
 let's see what happens with this change.
-![scene in city] (https://docs.github.com/en/desktop/contributing-and-collaborating-using-github-desktop/keeping-your-local-repository-in-sync-with-github "what a vibrant place!")
+![scene in city] (https://raw.githubusercontent.com/yipenburg/docs-playground/main/city-sunny-people-street.jpg "what a vibrant place!")
